@@ -1,0 +1,5 @@
+ho "export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin" >> $HOME/.bash_profil
+rm -rf networks
+source $HOME/.bash_profile
+-ego version
+.bash_profil rm -rf n
